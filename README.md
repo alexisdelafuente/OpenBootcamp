@@ -1,3 +1,3 @@
 ### OpenBootcamp ###
 ## Estamos Programando ##
-# SI LO PUEDE IMAGINAR, LO PUEDE PROGRAMAR #
+# SI LO PUEDES IMAGINAR, LO PUEDES PROGRAMAR #
